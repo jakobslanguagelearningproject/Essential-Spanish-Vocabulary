@@ -39,7 +39,7 @@ The Spanish word frequency list used in this podcast was created by **Invoke IT 
 
 
 ## Contact
-For questions or collaboration opportunities, please open an issue on this repository or contact Jakob directly at [your-email@example.com].
+For questions or collaboration opportunities, please open an issue on this repository.
 
 ---
 
