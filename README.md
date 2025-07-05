@@ -1,4 +1,4 @@
-# Essential Vocabulary - JakobsLanguageLearningProject Podcasts
+# Essential Vocabulary Podcasts - JakobsLanguageLearningProject
 
 ## About
 I am creating language learning podcasts that present vocabulary in order of frequency. This project aims to help language learners efficiently master the most important words first across different languages.
