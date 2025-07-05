@@ -15,7 +15,7 @@ We welcome contributions to improve this project:
 2. **Suggest improvements**: Ideas for better examples or content structure are always welcome
 3. **Language expansion**: If you're interested in helping expand to other languages, please reach out
 
-## ⚠️ Work in Progress
+## Work in Progress
 This project is actively under development.
 
 ## License
